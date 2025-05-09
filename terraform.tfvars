@@ -1,0 +1,13 @@
+project_id    = "cloudside-academy"
+region        = "us-central1"
+vpc_name      = "rohith-vpc"
+subnet_name   = "rohith-subnet"
+subnet_cidr   = "10.10.0.0/24"
+instance_name = "rohith-windows-vm"
+machine_type  = "e2-micro"
+zone          = "us-central1-a"
+cluster_name  = "private-gke"
+subnet_2_name   = "rohith-subnet-2"
+subnet_2_cidr   = "10.10.1.0/24"
+subnet_2_region = "us-central1"
+
